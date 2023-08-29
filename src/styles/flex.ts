@@ -1,6 +1,7 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const FlexVertical = styled.div`
-    display: flex;
-    align-items: center;
-`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
